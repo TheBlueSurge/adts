@@ -23,7 +23,7 @@ public:
 
    int size();
 
-   void push(int);
+   void push(int z);
 
    void pop();
 
